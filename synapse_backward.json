@@ -1,49 +1,33 @@
 {
-    "contract": "bodhi.seed.v1",
+    "contract": "bodhi.seed.v2",
     "node_dna": {
         "identity": "100048777766367/seed-02",
-        "generation": "F1",
-        "node_index": 1,
+        "generation": "F1_PRODIGY",
+        "node_index": 2,
         "pulse_age": 1,
         "ancestor_root": "100048777766367/seed",
-        "generation_epoch": 4
+        "generation_epoch": 5
     },
-    "timestamp": 1792002657,
-    "gradients_for_eye": [
-        -0.0128,
-        -0.0046
+    "generation_epoch": 5,
+    "consensus_decision": 0.442,
+    "command_pulse": [
+        0.442,
+        0.558
     ],
-    "super_xor_masks": {
-        "100048777766367/retina": [
-            3118.639,
-            58256.7183,
-            1761.021,
-            48880.0492
-        ],
-        "100048777766367/cochlea": [
-            58117.1122,
-            8628.5447,
-            50664.6559,
-            51422.015
-        ],
-        "100048777766367/tactile": [
-            41374.1604,
-            30483.0976,
-            12753.7691,
-            35771.4442
-        ],
-        "100048777766367/olfactory": [
-            37851.6198,
-            41220.6519,
-            54282.7819,
-            64970.7108
-        ]
-    },
+    "features": [
+        0.442,
+        0.558
+    ],
+    "gradients_for_ancestors": [
+        -0.012,
+        -0.0034
+    ],
+    "absorbed_sample": "Sin nombre (film): Sin nombre is a 2009 adventure thriller film written and directed by Cary Joji Fu",
     "gossip_network": [
         "100048777766367/retina",
         "100048777766367/cochlea",
         "100048777766367/tactile",
         "100048777766367/olfactory"
     ],
-    "quantum_cid": "ba062cecc2aac861216d78fb0f80f51546787bac5c834c36cf3e19421e9bd68016bb48e9881e8379d3b577aefbe771242e186be47f9fa92dfb68924004e78a54"
+    "quantum_cid": "2dcfd766b181d67124f3266e59364435aee755e6e4989bc237f68635ff6bab2abe284987d4d4b3cabbb6870fb10e46843232190677c6d1544f7fe993e8d505e8"
 }
