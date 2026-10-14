@@ -5,7 +5,7 @@ import subprocess
 import hashlib
 import urllib.request
 from cells.neuron import AtomNeuron, sigmoid_derivative
- TỰ CHỮA LÀNH NẾU THIẾU TỆP LINGUISTIC_CELL
+# TỰ CHỮA LÀNH NẾU THIẾU TỆP LINGUISTIC_CELL
 try:
     from cells.linguistic_cell import LinguisticCell
 except ImportError:
