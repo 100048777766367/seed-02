@@ -1,0 +1,28 @@
+{
+    "contract": "bodhi.seed.v1",
+    "node_dna": {
+        "identity": "100048777766367/seed-01",
+        "generation": "F1",
+        "node_index": 1,
+        "pulse_age": 1,
+        "ancestor_root": "100048777766367/seed",
+        "generation_epoch": 3
+    },
+    "timestamp": 1791996799,
+    "decision": 0.45278418563641015,
+    "command_pulse": [
+        0.4528,
+        0.5472
+    ],
+    "features": [
+        0.4528,
+        0.5472
+    ],
+    "gossip_network": [
+        "100048777766367/retina",
+        "100048777766367/cochlea",
+        "100048777766367/tactile",
+        "100048777766367/olfactory"
+    ],
+    "quantum_cid": "6d08404004de86f406942cbbefce32d9bd0e75155e5783509fb60aec22d3e4a7f4da0186b2760ae13222927486565f9fff1fd1b35f95c396b99f8c2bf8036def"
+}

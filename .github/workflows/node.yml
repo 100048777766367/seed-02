@@ -1,0 +1,55 @@
+name: Seed-01 Invariant Resilient Lifecycle
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+  schedule:
+    - cron: '15 */4 * * *' # Chạy nhịp 4 tiếng để điều hòa năng lượng
+
+permissions:
+  contents: write
+
+jobs:
+  run-autonomous-seed:
+    runs-on: ubuntu-latest
+    steps:
+      # ==============================================================
+      # CÁCH B: "TUYỆT KỸ THOÁT LY" - LỆNH SHELL GỐC LINUX (KHÔNG CẦN CHECKOUT)
+      # Dù 20 năm nữa GitHub có ra checkout@v100 thì lệnh này vẫn chạy bất tử!
+      # ==============================================================
+      - name: Kéo mã nguồn bằng Linux Shell gốc (Thoát ly Node.js)
+        run: |
+          git clone --depth 1 https://github.com/${{ github.repository }}.git .
+
+      - name: Thiết lập môi trường Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: '3.10'
+
+      # VẬN HÀNH ĐỘNG CƠ TỰ TRỊ (TỰ PHONG THỦY TỔ, NGỦ ĐÔNG, HÚT HỒN, 1+N SIÊU XOR)
+      - name: Vận hành Động cơ Seed-01
+        env:
+          REPO_OWNER: ${{ github.repository_owner }}
+          REPO_PARENT: ${{ github.event.repository.parent.owner.login }}
+        run: python engine.py
+
+      # LƯU TRẠNG THÁI BẰNG FAST-FORWARD CHỐNG XUNG ĐỘT (CÓ XÁC THỰC TOKEN)
+      - name: Lưu vết tích tiến hóa và snapshot linh hồn
+        run: |
+          git config --global user.name "Seed-01-Worker-Bot"
+          git config --global user.email "bot@seed01.node"
+          
+          # CẤP CHÌA KHÓA BẢO MẬT ĐỂ ĐƯỢC PHÉP PUSH
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          
+          git fetch origin main
+          git reset origin/main
+          git add synapses/ synapse_backward.json synapse_forward.json 2>/dev/null || true
+          
+          if ! git diff --staged --quiet; then
+            git commit -m "🧬 [Seed-01 Tiến Hóa] Cập nhật phả hệ, thế hệ #(1+N) và túi nhớ [skip ci]"
+            git push origin main
+          else
+            echo "Môi trường tĩnh, không có biến đổi mới."
+          fi
