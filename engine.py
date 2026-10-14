@@ -5,7 +5,16 @@ import subprocess
 import hashlib
 import urllib.request
 from cells.neuron import AtomNeuron, sigmoid_derivative
-from cells.linguistic_cell import LinguisticCell
+ TỰ CHỮA LÀNH NẾU THIẾU TỆP LINGUISTIC_CELL
+try:
+    from cells.linguistic_cell import LinguisticCell
+except ImportError:
+    import hashlib
+    class LinguisticCell:
+        @staticmethod
+        def embed_text(text):
+            clean = str(text).strip().lower()
+            return [round(int(hashlib.shake_256(f"{clean}_{d}".encode()).hexdigest(4), 16) / 65535.0, 4) for d in range(4)]
 
 NUM_CELLS = 8
 STATE_LOG = "synapses/state.json"
