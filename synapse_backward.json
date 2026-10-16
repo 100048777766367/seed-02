@@ -6,28 +6,28 @@
         "node_index": 2,
         "pulse_age": 1,
         "ancestor_root": "100048777766367/seed",
-        "generation_epoch": 11
+        "generation_epoch": 12
     },
-    "generation_epoch": 11,
-    "consensus_decision": 0.5128,
+    "generation_epoch": 12,
+    "consensus_decision": 0.5185,
     "command_pulse": [
-        0.5128,
-        0.4872
+        0.5185,
+        0.4815
     ],
     "features": [
-        0.5128,
-        0.4872
+        0.5185,
+        0.4815
     ],
     "gradients_for_ancestors": [
-        -0.011,
-        -0.0035
+        -0.0087,
+        -0.0026
     ],
-    "absorbed_sample": "Pyotr Anjou: Pyotr Fyodorovich Anjou or Anzhu was an Arctic explorer and an admiral of the Imperial ",
+    "absorbed_sample": "Draža Mihailović: Dragoljub \"Draža\" Mihailović was a Yugoslav Serb general during World War II. He w",
     "gossip_network": [
         "100048777766367/retina",
         "100048777766367/cochlea",
         "100048777766367/tactile",
         "100048777766367/olfactory"
     ],
-    "quantum_cid": "1d7cd991fee49459a3c71d1ea2261fcc1ac910a33e682184adee85b8c364977cb1b934e7e151e6f055abf785cb45f6652f3d93bf7918a50b58fcb911e0d22adc"
+    "quantum_cid": "4976fa0bcb04e21b0fa25b33abc682a3c6beadedfd588abf3dafca234eba5c574f373755df21af6cc53975b40726574ac95a13e5ee01d5cffcc2cbe48d2f47bb"
 }
