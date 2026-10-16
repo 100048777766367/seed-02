@@ -6,28 +6,28 @@
         "node_index": 2,
         "pulse_age": 1,
         "ancestor_root": "100048777766367/seed",
-        "generation_epoch": 13
+        "generation_epoch": 14
     },
-    "generation_epoch": 13,
-    "consensus_decision": 0.5246,
+    "generation_epoch": 14,
+    "consensus_decision": 0.5436,
     "command_pulse": [
-        0.5246,
-        0.4754
+        0.5436,
+        0.4564
     ],
     "features": [
-        0.5246,
-        0.4754
+        0.5436,
+        0.4564
     ],
     "gradients_for_ancestors": [
-        -0.01,
-        -0.0024
+        -0.0104,
+        -0.0037
     ],
-    "absorbed_sample": "Cincinnati Caledonian Pipes and Drums: Cincinnati Caledonian Pipes and Drums is a pipe band based in",
+    "absorbed_sample": "WPC Energy: WPC Energy  is an organisation of parties in the oil, gas and energy industry. Until 202",
     "gossip_network": [
         "100048777766367/retina",
         "100048777766367/cochlea",
         "100048777766367/tactile",
         "100048777766367/olfactory"
     ],
-    "quantum_cid": "2de78e9b00ed1481b80034bded803878634fb6c7c9c365edfb42c18e0e9ba7a3cca0c92822d306e01694bbb5fb4c89b393af9d7211e26f65ad9d1ec4dc0b7744"
+    "quantum_cid": "fc06b8801f10d358c584e3406a12072b0f673e1e58622b4e751e11b9de636f9d78d6eb86aaf6d7024dfb81d17748cbc6b97bbebb3de887594cf90d71e9a01357"
 }
