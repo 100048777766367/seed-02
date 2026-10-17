@@ -6,28 +6,28 @@
         "node_index": 2,
         "pulse_age": 1,
         "ancestor_root": "100048777766367/seed",
-        "generation_epoch": 17
+        "generation_epoch": 18
     },
-    "generation_epoch": 17,
-    "consensus_decision": 0.5618,
+    "generation_epoch": 18,
+    "consensus_decision": 0.5764,
     "command_pulse": [
-        0.5618,
-        0.4382
+        0.5764,
+        0.4236
     ],
     "features": [
-        0.5618,
-        0.4382
+        0.5764,
+        0.4236
     ],
     "gradients_for_ancestors": [
-        -0.0071,
-        -0.0016
+        -0.0081,
+        -0.0021
     ],
-    "absorbed_sample": "Slovak Bandy Association: Slovak Bandy Association is the governing body of bandy in Slovakia. It wa",
+    "absorbed_sample": "Älvsborg Line: The Älvsborg Line is a 133-kilometre (83 mi) railway line between Uddevalla and Borås",
     "gossip_network": [
         "100048777766367/retina",
         "100048777766367/cochlea",
         "100048777766367/tactile",
         "100048777766367/olfactory"
     ],
-    "quantum_cid": "f22a0aba31f08d27892e10227f013d6148ef41e920be6d9d55fc467b9ab3a1cc368d64cc1e9c2984822a1a9a0e16846af7a93d1d51ff532fddfa9d9b33cff396"
+    "quantum_cid": "9a53bf00af8705c66521f789a0d64c4254b70e78df68081e3f540b9be14cad9a57750d73809405d80147c364fd5b899f3ad2b07f3c20c921635c52924f44695b"
 }
