@@ -6,28 +6,28 @@
         "node_index": 2,
         "pulse_age": 1,
         "ancestor_root": "100048777766367/seed",
-        "generation_epoch": 16
+        "generation_epoch": 17
     },
-    "generation_epoch": 16,
-    "consensus_decision": 0.5578,
+    "generation_epoch": 17,
+    "consensus_decision": 0.5618,
     "command_pulse": [
-        0.5578,
-        0.4422
+        0.5618,
+        0.4382
     ],
     "features": [
-        0.5578,
-        0.4422
+        0.5618,
+        0.4382
     ],
     "gradients_for_ancestors": [
-        -0.0102,
-        -0.0039
+        -0.0071,
+        -0.0016
     ],
-    "absorbed_sample": "Maurice Flanagan: Sir Maurice Flanagan was a British businessman and the founding CEO of the airline",
+    "absorbed_sample": "Slovak Bandy Association: Slovak Bandy Association is the governing body of bandy in Slovakia. It wa",
     "gossip_network": [
         "100048777766367/retina",
         "100048777766367/cochlea",
         "100048777766367/tactile",
         "100048777766367/olfactory"
     ],
-    "quantum_cid": "b399557e7c501076983bd537aca5a3d101e0d324756f507bcf324d95e9bb6bf1488e0774cfa81041b662d4e4fb3f87450efb740305826c32b7c0d026ccc7c4c4"
+    "quantum_cid": "f22a0aba31f08d27892e10227f013d6148ef41e920be6d9d55fc467b9ab3a1cc368d64cc1e9c2984822a1a9a0e16846af7a93d1d51ff532fddfa9d9b33cff396"
 }
