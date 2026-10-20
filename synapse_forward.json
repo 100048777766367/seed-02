@@ -6,28 +6,28 @@
         "node_index": 2,
         "pulse_age": 1,
         "ancestor_root": "100048777766367/seed",
-        "generation_epoch": 27
+        "generation_epoch": 28
     },
-    "generation_epoch": 27,
-    "consensus_decision": 0.6504,
+    "generation_epoch": 28,
+    "consensus_decision": 0.658,
     "command_pulse": [
-        0.6504,
-        0.3496
+        0.658,
+        0.342
     ],
     "features": [
-        0.6504,
-        0.3496
+        0.658,
+        0.342
     ],
     "gradients_for_ancestors": [
-        -0.0067,
-        -0.0022
+        -0.0074,
+        -0.0023
     ],
-    "absorbed_sample": "Mary Had a Little Lamb: \"Mary Had a Little Lamb\" is an English-language nursery rhyme of nineteenth-",
+    "absorbed_sample": "Courtland School (Courtland, Virginia): The Courtland School is a historic Rosenwald school at 25499",
     "gossip_network": [
         "100048777766367/retina",
         "100048777766367/cochlea",
         "100048777766367/tactile",
         "100048777766367/olfactory"
     ],
-    "quantum_cid": "52e1ec797d51265b8d8b9438f9676152333a4c0f3e1ee380b63d14cece340f358b7b7ebc7975e316a494092c5a8a960ef5e0112d96d9449c49f73a10b37ba27f"
+    "quantum_cid": "b6f7bb536b4037168d4e9adb30731b9ff5eb91ebb64b114f7efd80c40dc8c4e89b8d8d9609a2347e7a1c295de7e316a15efa32201a68a35a485cd50f53bf1fc6"
 }
