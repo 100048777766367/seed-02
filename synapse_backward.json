@@ -6,28 +6,28 @@
         "node_index": 2,
         "pulse_age": 1,
         "ancestor_root": "100048777766367/seed",
-        "generation_epoch": 30
+        "generation_epoch": 31
     },
-    "generation_epoch": 30,
-    "consensus_decision": 0.67,
+    "generation_epoch": 31,
+    "consensus_decision": 0.6784,
     "command_pulse": [
-        0.67,
-        0.33
+        0.6784,
+        0.3216
     ],
     "features": [
-        0.67,
-        0.33
+        0.6784,
+        0.3216
     ],
     "gradients_for_ancestors": [
-        -0.0054,
-        -0.0019
+        -0.0065,
+        -0.002
     ],
-    "absorbed_sample": "Cross Ranch State Park: Cross Ranch State Park is a public recreation area covering 569 acres (230 h",
+    "absorbed_sample": "São Jorge (Santiago): São Jorge is a settlement in the central part of the island of Santiago, Cape ",
     "gossip_network": [
         "100048777766367/retina",
         "100048777766367/cochlea",
         "100048777766367/tactile",
         "100048777766367/olfactory"
     ],
-    "quantum_cid": "785d37896a63be20500a95457a47c064fafe638b2c0f8c0ab44ce471f5b1bacce5c070c43425b27cc62915dcba4722a8f01f4c527f2b3a539d966b486feeb8ff"
+    "quantum_cid": "d55d59826e0b050417e0930bc6226e060049e8f5f7055cc734b79df13a6b4cbaee77518d96f198ff435b826411b8e273b16ada22d591b296cb0142075c5901bc"
 }
