@@ -6,28 +6,28 @@
         "node_index": 2,
         "pulse_age": 1,
         "ancestor_root": "100048777766367/seed",
-        "generation_epoch": 28
+        "generation_epoch": 29
     },
-    "generation_epoch": 28,
-    "consensus_decision": 0.658,
+    "generation_epoch": 29,
+    "consensus_decision": 0.6677,
     "command_pulse": [
-        0.658,
-        0.342
+        0.6677,
+        0.3323
     ],
     "features": [
-        0.658,
-        0.342
+        0.6677,
+        0.3323
     ],
     "gradients_for_ancestors": [
-        -0.0074,
-        -0.0023
+        -0.0065,
+        -0.003
     ],
-    "absorbed_sample": "Courtland School (Courtland, Virginia): The Courtland School is a historic Rosenwald school at 25499",
+    "absorbed_sample": "Mount Laguna Air Force Station: Mount Laguna Air Force Station  is a closed United States Air Force ",
     "gossip_network": [
         "100048777766367/retina",
         "100048777766367/cochlea",
         "100048777766367/tactile",
         "100048777766367/olfactory"
     ],
-    "quantum_cid": "b6f7bb536b4037168d4e9adb30731b9ff5eb91ebb64b114f7efd80c40dc8c4e89b8d8d9609a2347e7a1c295de7e316a15efa32201a68a35a485cd50f53bf1fc6"
+    "quantum_cid": "cc319ed04d7eb5eaee8eca6fbf35e45d3c2599d4b7c1675ad1e9bb62ad300693c9b47ed4e7df8cb42c1cf57de1dfa4be954d48e8b82f59234ec4d91e2daf171c"
 }
