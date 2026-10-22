@@ -6,28 +6,28 @@
         "node_index": 2,
         "pulse_age": 1,
         "ancestor_root": "100048777766367/seed",
-        "generation_epoch": 37
+        "generation_epoch": 38
     },
-    "generation_epoch": 37,
-    "consensus_decision": 0.711,
+    "generation_epoch": 38,
+    "consensus_decision": 0.7134,
     "command_pulse": [
-        0.711,
-        0.289
+        0.7134,
+        0.2866
     ],
     "features": [
-        0.711,
-        0.289
+        0.7134,
+        0.2866
     ],
     "gradients_for_ancestors": [
-        -0.0052,
-        -0.0018
+        -0.0047,
+        -0.0015
     ],
-    "absorbed_sample": "Alpicat: Alpicat is a municipality in the comarca of Segrià and autonomous community of Catalonia, S",
+    "absorbed_sample": "Neena Gupta: Neena Gupta is an Indian actress and television director who works in Hindi films and o",
     "gossip_network": [
         "100048777766367/retina",
         "100048777766367/cochlea",
         "100048777766367/tactile",
         "100048777766367/olfactory"
     ],
-    "quantum_cid": "aeb1775d583f38bbbf63a75d1ef8069167ae4df1cef59f8b65d059db83433201283cf9db4cdbef3b942b47be27e5b03344c6d5eccc662eeaa20ad97e1ea18655"
+    "quantum_cid": "1c5318c617ff4e184f091aaba7331034ac892500dc306c979adf9ecd945d5ee9065d040a18fbcc6accd82805c12d3a943b9081521ce9edbab390e77a422e4380"
 }
