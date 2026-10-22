@@ -6,28 +6,28 @@
         "node_index": 2,
         "pulse_age": 1,
         "ancestor_root": "100048777766367/seed",
-        "generation_epoch": 35
+        "generation_epoch": 36
     },
-    "generation_epoch": 35,
-    "consensus_decision": 0.6991,
+    "generation_epoch": 36,
+    "consensus_decision": 0.7054,
     "command_pulse": [
-        0.6991,
-        0.3009
+        0.7054,
+        0.2946
     ],
     "features": [
-        0.6991,
-        0.3009
+        0.7054,
+        0.2946
     ],
     "gradients_for_ancestors": [
-        -0.005,
-        -0.0014
+        -0.0051,
+        -0.0017
     ],
-    "absorbed_sample": "Boris Taslitzky: Boris Taslitzky, sometimes Boris Tazlitsky, was a French painter with left-wing sym",
+    "absorbed_sample": "Eburia fuliginea: Eburia fuliginea is a species of beetle in the family Cerambycidae.",
     "gossip_network": [
         "100048777766367/retina",
         "100048777766367/cochlea",
         "100048777766367/tactile",
         "100048777766367/olfactory"
     ],
-    "quantum_cid": "2c3f9ec1bc08f08229ce852d52f02b65f6b8ddade1e0423f4c6e2aa626c457943e0a52440e9d3b94401d5fea03b8e07491ab061ed0d5418b2d1e696725d680a6"
+    "quantum_cid": "a57a53413cf612b50c6db737626b05be1fd1bc6e58f5bb680db00da8f8e477906b1ac27fdf4080a7057d6c5c3d262cfabc086898f86b678af6cbc0ff9ddf856a"
 }
