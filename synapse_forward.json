@@ -6,28 +6,28 @@
         "node_index": 2,
         "pulse_age": 1,
         "ancestor_root": "100048777766367/seed",
-        "generation_epoch": 38
+        "generation_epoch": 39
     },
-    "generation_epoch": 38,
-    "consensus_decision": 0.7134,
+    "generation_epoch": 39,
+    "consensus_decision": 0.7139,
     "command_pulse": [
-        0.7134,
-        0.2866
+        0.7139,
+        0.2861
     ],
     "features": [
-        0.7134,
-        0.2866
+        0.7139,
+        0.2861
     ],
     "gradients_for_ancestors": [
-        -0.0047,
-        -0.0015
+        -0.0055,
+        -0.001
     ],
-    "absorbed_sample": "Neena Gupta: Neena Gupta is an Indian actress and television director who works in Hindi films and o",
+    "absorbed_sample": "Calatayud railway station: \n\nCalatayud station is a railway station located in the Spanish city of C",
     "gossip_network": [
         "100048777766367/retina",
         "100048777766367/cochlea",
         "100048777766367/tactile",
         "100048777766367/olfactory"
     ],
-    "quantum_cid": "1c5318c617ff4e184f091aaba7331034ac892500dc306c979adf9ecd945d5ee9065d040a18fbcc6accd82805c12d3a943b9081521ce9edbab390e77a422e4380"
+    "quantum_cid": "8ca959a8e5ccd0646494ea834136bc832949e2ab952f6393b7715b47c532b224ef45a73aa94a167bc0bb3d4e11974100a4b76a95ec65e2481a6f61d94418f939"
 }
