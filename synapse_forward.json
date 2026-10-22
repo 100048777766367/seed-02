@@ -6,28 +6,28 @@
         "node_index": 2,
         "pulse_age": 1,
         "ancestor_root": "100048777766367/seed",
-        "generation_epoch": 36
+        "generation_epoch": 37
     },
-    "generation_epoch": 36,
-    "consensus_decision": 0.7054,
+    "generation_epoch": 37,
+    "consensus_decision": 0.711,
     "command_pulse": [
-        0.7054,
-        0.2946
+        0.711,
+        0.289
     ],
     "features": [
-        0.7054,
-        0.2946
+        0.711,
+        0.289
     ],
     "gradients_for_ancestors": [
-        -0.0051,
-        -0.0017
+        -0.0052,
+        -0.0018
     ],
-    "absorbed_sample": "Eburia fuliginea: Eburia fuliginea is a species of beetle in the family Cerambycidae.",
+    "absorbed_sample": "Alpicat: Alpicat is a municipality in the comarca of Segrià and autonomous community of Catalonia, S",
     "gossip_network": [
         "100048777766367/retina",
         "100048777766367/cochlea",
         "100048777766367/tactile",
         "100048777766367/olfactory"
     ],
-    "quantum_cid": "a57a53413cf612b50c6db737626b05be1fd1bc6e58f5bb680db00da8f8e477906b1ac27fdf4080a7057d6c5c3d262cfabc086898f86b678af6cbc0ff9ddf856a"
+    "quantum_cid": "aeb1775d583f38bbbf63a75d1ef8069167ae4df1cef59f8b65d059db83433201283cf9db4cdbef3b942b47be27e5b03344c6d5eccc662eeaa20ad97e1ea18655"
 }
