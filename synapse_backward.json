@@ -6,28 +6,28 @@
         "node_index": 2,
         "pulse_age": 1,
         "ancestor_root": "100048777766367/seed",
-        "generation_epoch": 47
+        "generation_epoch": 48
     },
-    "generation_epoch": 47,
-    "consensus_decision": 0.7466,
+    "generation_epoch": 48,
+    "consensus_decision": 0.7535,
     "command_pulse": [
-        0.7466,
-        0.2534
+        0.7535,
+        0.2465
     ],
     "features": [
-        0.7466,
-        0.2534
+        0.7535,
+        0.2465
     ],
     "gradients_for_ancestors": [
-        -0.0044,
-        -0.0016
+        -0.004,
+        -0.0015
     ],
-    "absorbed_sample": "Downtown Tunnel (St. Louis): The Downtown Tunnel, sometimes referred to as the St. Louis Freight Tun",
+    "absorbed_sample": "Grand Gedeh County: Grand Gedeh County is a county in southeastern Liberia. Its capital is Zwedru. A",
     "gossip_network": [
         "100048777766367/retina",
         "100048777766367/cochlea",
         "100048777766367/tactile",
         "100048777766367/olfactory"
     ],
-    "quantum_cid": "2cb4652c8577f7a3c81fb7cbb894fc6c49c16d170589da949788a75048bd9d4dbacfd12584682063ffe6761d0bd6ed76b237e24244877f60d6c325cba4d7bd56"
+    "quantum_cid": "bcd1870cc5cf5c9185b46dc0cdd0db6f1f1475bcf9cf87f264b26b7dc3ede6f6a808ca1a62c70bb1ca6cf8200f01c0383776e8f80b9c031f04217cb13c354182"
 }
