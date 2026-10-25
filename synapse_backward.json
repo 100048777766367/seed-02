@@ -6,28 +6,28 @@
         "node_index": 2,
         "pulse_age": 1,
         "ancestor_root": "100048777766367/seed",
-        "generation_epoch": 48
+        "generation_epoch": 49
     },
-    "generation_epoch": 48,
-    "consensus_decision": 0.7535,
+    "generation_epoch": 49,
+    "consensus_decision": 0.751,
     "command_pulse": [
-        0.7535,
-        0.2465
+        0.751,
+        0.249
     ],
     "features": [
-        0.7535,
-        0.2465
+        0.751,
+        0.249
     ],
     "gradients_for_ancestors": [
-        -0.004,
-        -0.0015
+        -0.005,
+        -0.0019
     ],
-    "absorbed_sample": "Grand Gedeh County: Grand Gedeh County is a county in southeastern Liberia. Its capital is Zwedru. A",
+    "absorbed_sample": "Matthias Friedemann: Matthias Friedemann is a German cyclist.",
     "gossip_network": [
         "100048777766367/retina",
         "100048777766367/cochlea",
         "100048777766367/tactile",
         "100048777766367/olfactory"
     ],
-    "quantum_cid": "bcd1870cc5cf5c9185b46dc0cdd0db6f1f1475bcf9cf87f264b26b7dc3ede6f6a808ca1a62c70bb1ca6cf8200f01c0383776e8f80b9c031f04217cb13c354182"
+    "quantum_cid": "26687b7a09330c4ce11da2a3898758d98a745eab33155b8b3aba909e920330f08f273d26224b5878d1885f892fa52d743af38190406e524242954a82527dac2a"
 }
