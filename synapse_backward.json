@@ -6,28 +6,28 @@
         "node_index": 2,
         "pulse_age": 1,
         "ancestor_root": "100048777766367/seed",
-        "generation_epoch": 58
+        "generation_epoch": 59
     },
-    "generation_epoch": 58,
-    "consensus_decision": 0.7806,
+    "generation_epoch": 59,
+    "consensus_decision": 0.7857,
     "command_pulse": [
-        0.7806,
-        0.2194
+        0.7857,
+        0.2143
     ],
     "features": [
-        0.7806,
-        0.2194
+        0.7857,
+        0.2143
     ],
     "gradients_for_ancestors": [
-        -0.0026,
-        -0.0009
+        -0.0029,
+        -0.001
     ],
-    "absorbed_sample": "She Even Woke Me Up to Say Goodbye (album): She Even Woke Me Up to Say Goodbye is the thirteenth stu",
+    "absorbed_sample": "Between Angels and Insects: \"Between Angels and Insects\" is a song by American rock band Papa Roach.",
     "gossip_network": [
         "100048777766367/retina",
         "100048777766367/cochlea",
         "100048777766367/tactile",
         "100048777766367/olfactory"
     ],
-    "quantum_cid": "f67b75587c0cce15689644705cfeb2b380ea7fa612e15d22437b880081f078ef7730f0ba8af6aa317aaa925acb7eef8463ce1c0d43d77c3a83014dfb33bf4703"
+    "quantum_cid": "adb6b97bf942d0d7d42e054f1509ec8a95cb85b0393546fc3a660e880e211e9c822fd74a6cfdfbbd93156b8e92af5034f23371ba0494b3f232422fd8cac3f8f6"
 }
