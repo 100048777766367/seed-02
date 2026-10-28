@@ -6,28 +6,28 @@
         "node_index": 2,
         "pulse_age": 1,
         "ancestor_root": "100048777766367/seed",
-        "generation_epoch": 59
+        "generation_epoch": 60
     },
-    "generation_epoch": 59,
-    "consensus_decision": 0.7857,
+    "generation_epoch": 60,
+    "consensus_decision": 0.7875,
     "command_pulse": [
-        0.7857,
-        0.2143
+        0.7875,
+        0.2125
     ],
     "features": [
-        0.7857,
-        0.2143
+        0.7875,
+        0.2125
     ],
     "gradients_for_ancestors": [
-        -0.0029,
-        -0.001
+        -0.0028,
+        -0.0009
     ],
-    "absorbed_sample": "Between Angels and Insects: \"Between Angels and Insects\" is a song by American rock band Papa Roach.",
+    "absorbed_sample": "Amegilla quadrifasciata: Amegilla quadrifasciata, the white-banded digger bee, is a species of bee b",
     "gossip_network": [
         "100048777766367/retina",
         "100048777766367/cochlea",
         "100048777766367/tactile",
         "100048777766367/olfactory"
     ],
-    "quantum_cid": "adb6b97bf942d0d7d42e054f1509ec8a95cb85b0393546fc3a660e880e211e9c822fd74a6cfdfbbd93156b8e92af5034f23371ba0494b3f232422fd8cac3f8f6"
+    "quantum_cid": "88e10c2b6780e5582496b4bd9c141ebb8ff2e62a63f6720329a6179fe353326a6dcb6d57cc811adfd44d4e028018cd95935df8bcd22e70a7a6890619b5cad842"
 }
