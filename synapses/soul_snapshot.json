@@ -5,9 +5,9 @@
         "node_index": 2,
         "pulse_age": 1,
         "ancestor_root": "100048777766367/seed",
-        "generation_epoch": 69
+        "generation_epoch": 70
     },
-    "consensus": 0.8059,
+    "consensus": 0.8057,
     "peers": [
         "100048777766367/retina",
         "100048777766367/cochlea",
