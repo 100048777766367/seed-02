@@ -6,28 +6,28 @@
         "node_index": 2,
         "pulse_age": 1,
         "ancestor_root": "100048777766367/seed",
-        "generation_epoch": 72
+        "generation_epoch": 73
     },
-    "generation_epoch": 72,
-    "consensus_decision": 0.811,
+    "generation_epoch": 73,
+    "consensus_decision": 0.8103,
     "command_pulse": [
-        0.811,
-        0.189
+        0.8103,
+        0.1897
     ],
     "features": [
-        0.811,
-        0.189
+        0.8103,
+        0.1897
     ],
     "gradients_for_ancestors": [
         -0.0025,
-        -0.0011
+        -0.0012
     ],
-    "absorbed_sample": "Alexander Pröll: Alexander Pröll is an Austrian politician serving as secretary general of the Peopl",
+    "absorbed_sample": "Día de Enero: \"Día de enero\" is a song written and recorded by the Colombian singer-songwriter Shaki",
     "gossip_network": [
         "100048777766367/retina",
         "100048777766367/cochlea",
         "100048777766367/tactile",
         "100048777766367/olfactory"
     ],
-    "quantum_cid": "9a3dc21704216f5143417bd201b2f13abb830f332e11f10eba75176660c9eb75893d08b759460724e41997944f1dd16228451964e217961eb90e75951ddd50da"
+    "quantum_cid": "86e0610a2240e316e0da41a8b43027519e25e35f98a1f91484b06c73b3ca9b4694ac7e2638f6cb5fd4b9b68650f968cf0fce3e4365c779f615fb3de788556cc3"
 }
