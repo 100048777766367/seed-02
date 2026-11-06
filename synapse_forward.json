@@ -6,28 +6,28 @@
         "node_index": 2,
         "pulse_age": 1,
         "ancestor_root": "100048777766367/seed",
-        "generation_epoch": 85
+        "generation_epoch": 86
     },
-    "generation_epoch": 85,
-    "consensus_decision": 0.8289,
+    "generation_epoch": 86,
+    "consensus_decision": 0.8309,
     "command_pulse": [
-        0.8289,
-        0.1711
+        0.8309,
+        0.1691
     ],
     "features": [
-        0.8289,
-        0.1711
+        0.8309,
+        0.1691
     ],
     "gradients_for_ancestors": [
-        -0.0021,
+        -0.002,
         -0.0006
     ],
-    "absorbed_sample": "Taxi dance hall: A taxi dance hall is a type of dance hall where dancers, usually young women, calle",
+    "absorbed_sample": "Copinsay: Copinsay is one of the Orkney Islands in Scotland, lying off the east coast of the Orkney ",
     "gossip_network": [
         "100048777766367/retina",
         "100048777766367/cochlea",
         "100048777766367/tactile",
         "100048777766367/olfactory"
     ],
-    "quantum_cid": "02f702f9c5013a94ada26524b69f5109717df5eb6860326b25f07bdd5d77c4bd60a70429e9330d9a907f3d0db521ddb188eaa7226f42ac3b8fb0460f6f1b604c"
+    "quantum_cid": "7f5919d1f0f9614deb7a4926704846831facf49c8c379aedf5c892512c60e17bc61733de4c8794abbf516a443fc2e38b95aee2af9a86b1b4da3ab90a5b2b104f"
 }
