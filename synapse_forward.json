@@ -6,28 +6,28 @@
         "node_index": 2,
         "pulse_age": 1,
         "ancestor_root": "100048777766367/seed",
-        "generation_epoch": 93
+        "generation_epoch": 94
     },
-    "generation_epoch": 93,
-    "consensus_decision": 0.838,
+    "generation_epoch": 94,
+    "consensus_decision": 0.8373,
     "command_pulse": [
-        0.838,
-        0.162
+        0.8373,
+        0.1627
     ],
     "features": [
-        0.838,
-        0.162
+        0.8373,
+        0.1627
     ],
     "gradients_for_ancestors": [
-        -0.0018,
-        -0.0005
+        -0.0022,
+        -0.0009
     ],
-    "absorbed_sample": "Isochariesthes: Isochariesthes is a genus of longhorn beetles of the subfamily Lamiinae, containing ",
+    "absorbed_sample": "Crooked Creek crater: Crooked Creek is an impact crater in Crawford County, Missouri, United States.",
     "gossip_network": [
         "100048777766367/retina",
         "100048777766367/cochlea",
         "100048777766367/tactile",
         "100048777766367/olfactory"
     ],
-    "quantum_cid": "76d0576fd0d79c8b30d16bf5fcf14cdabc8cb8686da006451beafb6b9a0631e8967639c204a50d76d9ba1556d619476c030f92b8421c93db57e6688ab068ceb5"
+    "quantum_cid": "60ad4cf8d102be098a59f4b804e72a4a302286a6fcfb2041787787a026dfae5dd7459081e73fbc2cd061310fa91132594db4328c5c7fe931676b4cbf403916c5"
 }
