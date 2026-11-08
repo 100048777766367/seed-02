@@ -6,28 +6,28 @@
         "node_index": 2,
         "pulse_age": 1,
         "ancestor_root": "100048777766367/seed",
-        "generation_epoch": 92
+        "generation_epoch": 93
     },
-    "generation_epoch": 92,
-    "consensus_decision": 0.834,
+    "generation_epoch": 93,
+    "consensus_decision": 0.838,
     "command_pulse": [
-        0.834,
-        0.166
+        0.838,
+        0.162
     ],
     "features": [
-        0.834,
-        0.166
+        0.838,
+        0.162
     ],
     "gradients_for_ancestors": [
-        -0.0025,
-        -0.0009
+        -0.0018,
+        -0.0005
     ],
-    "absorbed_sample": "Vicenç Mateu Zamora: Vicenç Mateu Zamora is an Andorran diplomat and politician who served as Genera",
+    "absorbed_sample": "Isochariesthes: Isochariesthes is a genus of longhorn beetles of the subfamily Lamiinae, containing ",
     "gossip_network": [
         "100048777766367/retina",
         "100048777766367/cochlea",
         "100048777766367/tactile",
         "100048777766367/olfactory"
     ],
-    "quantum_cid": "668afb9eab871e249571b78a5851aacd2f36f7391afdc855d67b11111efc999d435597741358476df55606ec77b083eba49897c40dce91cd09b69289c945cb08"
+    "quantum_cid": "76d0576fd0d79c8b30d16bf5fcf14cdabc8cb8686da006451beafb6b9a0631e8967639c204a50d76d9ba1556d619476c030f92b8421c93db57e6688ab068ceb5"
 }
