@@ -6,28 +6,28 @@
         "node_index": 2,
         "pulse_age": 1,
         "ancestor_root": "100048777766367/seed",
-        "generation_epoch": 107
+        "generation_epoch": 108
     },
-    "generation_epoch": 107,
-    "consensus_decision": 0.8519,
+    "generation_epoch": 108,
+    "consensus_decision": 0.8541,
     "command_pulse": [
-        0.8519,
-        0.1481
+        0.8541,
+        0.1459
     ],
     "features": [
-        0.8519,
-        0.1481
+        0.8541,
+        0.1459
     ],
     "gradients_for_ancestors": [
-        -0.0016,
-        -0.0005
+        -0.0012,
+        -0.0007
     ],
-    "absorbed_sample": "Israel Hershberg: Israel Hershberg is a figurative painter who lives and works in Jerusalem. Hershbe",
+    "absorbed_sample": "Everyday (Dave Matthews Band song): \"Everyday\" a song from American rock band Dave Matthews Band's a",
     "gossip_network": [
         "100048777766367/retina",
         "100048777766367/cochlea",
         "100048777766367/tactile",
         "100048777766367/olfactory"
     ],
-    "quantum_cid": "d2dfbeeca307b3ac1f78dfeaa4cd38a4ab1b2cb0054ed35ca12afac52b599ee142af622674448f4aa03ce173a53ecf648d9abce5dd2ec8dae11b92f97c802883"
+    "quantum_cid": "9b90aac864b1e464af0bee4430761846c92f0614288522e031e3a2b1899b583568edd4e09ba8a9844f035f5ff97e6a7b0d392c71bc40f7d9fdafe175e9d1f1d9"
 }
