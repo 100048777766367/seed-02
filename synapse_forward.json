@@ -6,28 +6,28 @@
         "node_index": 2,
         "pulse_age": 1,
         "ancestor_root": "100048777766367/seed",
-        "generation_epoch": 111
+        "generation_epoch": 112
     },
-    "generation_epoch": 111,
-    "consensus_decision": 0.857,
+    "generation_epoch": 112,
+    "consensus_decision": 0.8548,
     "command_pulse": [
-        0.857,
-        0.143
+        0.8548,
+        0.1452
     ],
     "features": [
-        0.857,
-        0.143
+        0.8548,
+        0.1452
     ],
     "gradients_for_ancestors": [
-        -0.0012,
-        -0.0004
+        -0.0017,
+        -0.0007
     ],
-    "absorbed_sample": "Score (2Cellos album): Score is a 2017 album by Croatian duo 2Cellos, produced by them, in conjuncti",
+    "absorbed_sample": "Maish House: The Maish House is a historic building located in Des Moines, Iowa, United States. Geor",
     "gossip_network": [
         "100048777766367/retina",
         "100048777766367/cochlea",
         "100048777766367/tactile",
         "100048777766367/olfactory"
     ],
-    "quantum_cid": "aebdeec3502b7012e339d35f89bcd6e41dde2a30ed284c01cce05c28cb39d75266db7fb6f6fb81687933b69dbe15eefc0ade563b3fefe9837ee5f242fb838833"
+    "quantum_cid": "ad1db99d3b63e1296fb97246af34713443872fa12e8c2f23594fed83fa9ac8eff90dd536be5ae0a11a9b8c446c76810f5150e269a91e79ed6ee5d4519eb5f186"
 }
