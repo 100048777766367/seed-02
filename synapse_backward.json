@@ -6,28 +6,28 @@
         "node_index": 2,
         "pulse_age": 1,
         "ancestor_root": "100048777766367/seed",
-        "generation_epoch": 119
+        "generation_epoch": 120
     },
-    "generation_epoch": 119,
-    "consensus_decision": 0.8632,
+    "generation_epoch": 120,
+    "consensus_decision": 0.861,
     "command_pulse": [
-        0.8632,
-        0.1368
+        0.861,
+        0.139
     ],
     "features": [
-        0.8632,
-        0.1368
+        0.861,
+        0.139
     ],
     "gradients_for_ancestors": [
-        -0.0013,
-        -0.0003
+        -0.0018,
+        -0.0005
     ],
-    "absorbed_sample": "Pyrotheria: Pyrotheria is an order of extinct meridiungulate mammals. These elephant-like ungulates ",
+    "absorbed_sample": "Edmund Dangerfield: Edmund Dangerfield was an English printer and magazine publisher who specialised",
     "gossip_network": [
         "100048777766367/retina",
         "100048777766367/cochlea",
         "100048777766367/tactile",
         "100048777766367/olfactory"
     ],
-    "quantum_cid": "91c97b7e7770b96204ccc43ae28aa9b9ee2dc443f3d9f43b05d544ed673d4df6f1c9d63dad0329d91d96d0cc626f1bd303fae21f05beda74179a4339cc415c4a"
+    "quantum_cid": "0885c9de0dc664420d83a2452619f0a112238283fe903ff20d6ae26ee5f93c72d18afbf0e87b767bc5abb01759b4439ea893baf473e75fc236526c80ef750c13"
 }
