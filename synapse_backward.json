@@ -6,28 +6,28 @@
         "node_index": 2,
         "pulse_age": 1,
         "ancestor_root": "100048777766367/seed",
-        "generation_epoch": 120
+        "generation_epoch": 121
     },
-    "generation_epoch": 120,
-    "consensus_decision": 0.861,
+    "generation_epoch": 121,
+    "consensus_decision": 0.8614,
     "command_pulse": [
-        0.861,
-        0.139
+        0.8614,
+        0.1386
     ],
     "features": [
-        0.861,
-        0.139
+        0.8614,
+        0.1386
     ],
     "gradients_for_ancestors": [
-        -0.0018,
-        -0.0005
+        -0.0015,
+        -0.0007
     ],
-    "absorbed_sample": "Edmund Dangerfield: Edmund Dangerfield was an English printer and magazine publisher who specialised",
+    "absorbed_sample": "Laurent Tirard: Laurent Tirard was a French film director and screenwriter.",
     "gossip_network": [
         "100048777766367/retina",
         "100048777766367/cochlea",
         "100048777766367/tactile",
         "100048777766367/olfactory"
     ],
-    "quantum_cid": "0885c9de0dc664420d83a2452619f0a112238283fe903ff20d6ae26ee5f93c72d18afbf0e87b767bc5abb01759b4439ea893baf473e75fc236526c80ef750c13"
+    "quantum_cid": "f8d942be9d3f239f1895d7acb8c38b083b3610f37b319d6164cccf1519e55f244f5ebfe3e560402b06fe11a64f88eff2aeef391a3c3c90f0d008bc29d562be7b"
 }
