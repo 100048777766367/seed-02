@@ -6,28 +6,28 @@
         "node_index": 2,
         "pulse_age": 1,
         "ancestor_root": "100048777766367/seed",
-        "generation_epoch": 124
+        "generation_epoch": 125
     },
-    "generation_epoch": 124,
-    "consensus_decision": 0.8663,
+    "generation_epoch": 125,
+    "consensus_decision": 0.8648,
     "command_pulse": [
-        0.8663,
-        0.1337
+        0.8648,
+        0.1352
     ],
     "features": [
-        0.8663,
-        0.1337
+        0.8648,
+        0.1352
     ],
     "gradients_for_ancestors": [
-        -0.0013,
-        -0.0004
+        -0.0015,
+        -0.0005
     ],
-    "absorbed_sample": "Raeren: Raeren is a municipality of the German speaking community of Belgium located in the Walloon ",
+    "absorbed_sample": "Château de Ravignan: Château de Ravignan is a château in Landes, Nouvelle-Aquitaine, France. It date",
     "gossip_network": [
         "100048777766367/retina",
         "100048777766367/cochlea",
         "100048777766367/tactile",
         "100048777766367/olfactory"
     ],
-    "quantum_cid": "7fd5f49ac15ad178ba434e8f978518b65147aa283f8d035a47bcf639668ebf830848312792e6f30381efe731691b4fa11ab814b4a1d0764f22bd69fd8146c5cc"
+    "quantum_cid": "47d02332ed5d39976281fdfe4df33a91df157483a10d0d24b498efdfa278b24f49ea2892e5d8e14b39f840c9556bbe9a964afa9db7f7773b6c2c3dd3e0f6215a"
 }
