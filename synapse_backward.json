@@ -6,28 +6,28 @@
         "node_index": 2,
         "pulse_age": 1,
         "ancestor_root": "100048777766367/seed",
-        "generation_epoch": 123
+        "generation_epoch": 124
     },
-    "generation_epoch": 123,
-    "consensus_decision": 0.8623,
+    "generation_epoch": 124,
+    "consensus_decision": 0.8663,
     "command_pulse": [
-        0.8623,
-        0.1377
+        0.8663,
+        0.1337
     ],
     "features": [
-        0.8623,
-        0.1377
+        0.8663,
+        0.1337
     ],
     "gradients_for_ancestors": [
-        -0.0017,
-        -0.0006
+        -0.0013,
+        -0.0004
     ],
-    "absorbed_sample": "Annandale Post Office: The Annandale Post Office is a post office located at 115–117 Booth Street, o",
+    "absorbed_sample": "Raeren: Raeren is a municipality of the German speaking community of Belgium located in the Walloon ",
     "gossip_network": [
         "100048777766367/retina",
         "100048777766367/cochlea",
         "100048777766367/tactile",
         "100048777766367/olfactory"
     ],
-    "quantum_cid": "90e233118f2ef147a0e212bec85bba091d0ce40f878799bfa1e541aedb5f7d76b7ad3e8f5dd3fb14cf05219dbaef6c62f1ac72fcf489cc10252abc8e468e505d"
+    "quantum_cid": "7fd5f49ac15ad178ba434e8f978518b65147aa283f8d035a47bcf639668ebf830848312792e6f30381efe731691b4fa11ab814b4a1d0764f22bd69fd8146c5cc"
 }
