@@ -6,28 +6,28 @@
         "node_index": 2,
         "pulse_age": 1,
         "ancestor_root": "100048777766367/seed",
-        "generation_epoch": 128
+        "generation_epoch": 129
     },
-    "generation_epoch": 128,
-    "consensus_decision": 0.8666,
+    "generation_epoch": 129,
+    "consensus_decision": 0.8695,
     "command_pulse": [
-        0.8666,
-        0.1334
+        0.8695,
+        0.1305
     ],
     "features": [
-        0.8666,
-        0.1334
+        0.8695,
+        0.1305
     ],
     "gradients_for_ancestors": [
-        -0.0013,
-        -0.0009
+        -0.0012,
+        -0.0003
     ],
-    "absorbed_sample": "Fire clay: Fire clay is a range of refractory clays used in the manufacture of ceramics, especially ",
+    "absorbed_sample": "Harry Gestetner: Harry Gestetner is a British-American technology entrepreneur and founder of Fanfix",
     "gossip_network": [
         "100048777766367/retina",
         "100048777766367/cochlea",
         "100048777766367/tactile",
         "100048777766367/olfactory"
     ],
-    "quantum_cid": "bd57904cf09027a4e724437234f9d2527b387c63531e265637cbbf2eaf11cd8bd37a292189af54be4a85e355d4f7f58b8520fac24eb742ffff931a6d5fd66fac"
+    "quantum_cid": "ef580ee1e89c3fd1ebc886bc4dacb95a219299c8d2ff468c906ddd26c88cb5e0c63558c1b66866447655c712240a1d89dd9d06d2e6cb22e8eec278eccdf0ac03"
 }
