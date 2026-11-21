@@ -6,28 +6,28 @@
         "node_index": 2,
         "pulse_age": 1,
         "ancestor_root": "100048777766367/seed",
-        "generation_epoch": 127
+        "generation_epoch": 128
     },
-    "generation_epoch": 127,
-    "consensus_decision": 0.8657,
+    "generation_epoch": 128,
+    "consensus_decision": 0.8666,
     "command_pulse": [
-        0.8657,
-        0.1343
+        0.8666,
+        0.1334
     ],
     "features": [
-        0.8657,
-        0.1343
+        0.8666,
+        0.1334
     ],
     "gradients_for_ancestors": [
-        -0.0015,
-        -0.0006
+        -0.0013,
+        -0.0009
     ],
-    "absorbed_sample": "Luther F. Carter: Luther F. \"Fred\" Carter is an American university president and a former senior go",
+    "absorbed_sample": "Fire clay: Fire clay is a range of refractory clays used in the manufacture of ceramics, especially ",
     "gossip_network": [
         "100048777766367/retina",
         "100048777766367/cochlea",
         "100048777766367/tactile",
         "100048777766367/olfactory"
     ],
-    "quantum_cid": "2de2f7bb1dddf50bba4fb458d713e32d7f105901be6d86a2d91eef8d862d55b864965a3d1cc3b32852a7d83cdf4d6f0a483531fbaf428427b15714bcfee5d5ee"
+    "quantum_cid": "bd57904cf09027a4e724437234f9d2527b387c63531e265637cbbf2eaf11cd8bd37a292189af54be4a85e355d4f7f58b8520fac24eb742ffff931a6d5fd66fac"
 }
