@@ -6,28 +6,28 @@
         "node_index": 2,
         "pulse_age": 1,
         "ancestor_root": "100048777766367/seed",
-        "generation_epoch": 136
+        "generation_epoch": 137
     },
-    "generation_epoch": 136,
-    "consensus_decision": 0.8738,
+    "generation_epoch": 137,
+    "consensus_decision": 0.873,
     "command_pulse": [
-        0.8738,
-        0.1262
+        0.873,
+        0.127
     ],
     "features": [
-        0.8738,
-        0.1262
+        0.873,
+        0.127
     ],
     "gradients_for_ancestors": [
-        -0.0012,
+        -0.0013,
         -0.0003
     ],
-    "absorbed_sample": "Saints Kyril & Metodi Bulgarian Eastern Orthodox Diocesan Cathedral: Saints Kyril & Metodi Bulgarian",
+    "absorbed_sample": "Fernando Pérez Royo: Fernando Pérez Royo is a Spanish academic and politician who has served in the ",
     "gossip_network": [
         "100048777766367/retina",
         "100048777766367/cochlea",
         "100048777766367/tactile",
         "100048777766367/olfactory"
     ],
-    "quantum_cid": "8ece4d0bd7c0eb8175855be9771e153aa43a65706140b869968665b895792b84d77956ce12552c3e55282c1ce0cf81fdcab373972e63a5d3aaa618fd9d2205a2"
+    "quantum_cid": "58a2d1f9cb51dfa5917afaff29f1d5c0c6008497baf59dd40344e6ef2b4bb48365100ae6e32a0665f49fbb3738393fd824e034bcccd0c2b5c94c74d944cece81"
 }
