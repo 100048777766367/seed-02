@@ -6,28 +6,28 @@
         "node_index": 2,
         "pulse_age": 1,
         "ancestor_root": "100048777766367/seed",
-        "generation_epoch": 140
+        "generation_epoch": 141
     },
-    "generation_epoch": 140,
-    "consensus_decision": 0.875,
+    "generation_epoch": 141,
+    "consensus_decision": 0.8744,
     "command_pulse": [
-        0.875,
-        0.125
+        0.8744,
+        0.1256
     ],
     "features": [
-        0.875,
-        0.125
+        0.8744,
+        0.1256
     ],
     "gradients_for_ancestors": [
-        -0.0011,
+        -0.0014,
         -0.0005
     ],
-    "absorbed_sample": "Phaedrig O'Brien, 17th Baron Inchiquin: Phaedrig Lucius Ambrose O'Brien, 17th Baron Inchiquin was a ",
+    "absorbed_sample": "Registered historic parks and gardens in Newport: Newport is a city and county borough in the south ",
     "gossip_network": [
         "100048777766367/retina",
         "100048777766367/cochlea",
         "100048777766367/tactile",
         "100048777766367/olfactory"
     ],
-    "quantum_cid": "2d80b4e3cc79ff2bacc5ddaf3591c999ac3936084c9e7633d64bf7f39ae2226cc9b238e2a14cf6be174a140abce91c732771509e6fe73255807e6ea5587ff8b8"
+    "quantum_cid": "9c39e281d5c5fa48ae47c54a97c236e7f21be8d09749a6ca069682d5f5d265c5e7d8292c96864af2bc454199041388d757e4604e1d8f87b4752d10946b0950d5"
 }
