@@ -6,28 +6,28 @@
         "node_index": 2,
         "pulse_age": 1,
         "ancestor_root": "100048777766367/seed",
-        "generation_epoch": 141
+        "generation_epoch": 142
     },
-    "generation_epoch": 141,
-    "consensus_decision": 0.8744,
+    "generation_epoch": 142,
+    "consensus_decision": 0.876,
     "command_pulse": [
-        0.8744,
-        0.1256
+        0.876,
+        0.124
     ],
     "features": [
-        0.8744,
-        0.1256
+        0.876,
+        0.124
     ],
     "gradients_for_ancestors": [
-        -0.0014,
-        -0.0005
+        -0.001,
+        -0.0007
     ],
-    "absorbed_sample": "Registered historic parks and gardens in Newport: Newport is a city and county borough in the south ",
+    "absorbed_sample": "Postgirobygget (band): Postgirobygget is a Norwegian rock band from Trondheim. Singer and songwriter",
     "gossip_network": [
         "100048777766367/retina",
         "100048777766367/cochlea",
         "100048777766367/tactile",
         "100048777766367/olfactory"
     ],
-    "quantum_cid": "9c39e281d5c5fa48ae47c54a97c236e7f21be8d09749a6ca069682d5f5d265c5e7d8292c96864af2bc454199041388d757e4604e1d8f87b4752d10946b0950d5"
+    "quantum_cid": "301a2ef5484c27e96fdfb9dbc36312f8ac277f0ae6890c7f5b4233f7ebec501bfbcbd19e159c79abfba685af5a61db6a9c92ff24338181506c39d93407403d9f"
 }
